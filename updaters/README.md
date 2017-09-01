@@ -15,7 +15,7 @@ macOS):
     XPS_15_9560_1.3.4.exe: OK
     XPS_15_9560_1.4.0.exe: OK
 
-
+### Firmware releases
 | Firmware version | Release date | Driver ID (download link)                                                                 |
 |------------------|--------------|-------------------------------------------------------------------------------------------|
 | 1.4.0            | 2017-09-01   | [VJJVC](https://www.dell.com/support/home/us/en/19/drivers/DriversDetails?driverId=VJJVC) |
